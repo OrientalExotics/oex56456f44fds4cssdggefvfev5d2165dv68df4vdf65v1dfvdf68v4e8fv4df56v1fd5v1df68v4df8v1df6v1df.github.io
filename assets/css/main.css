@@ -2277,6 +2277,7 @@ input, select, textarea {
 	}
 
 		#contact .box {
+			background: #0a0a0a;
 			-moz-transition: -moz-transform 1s ease;
 			-webkit-transition: -webkit-transform 1s ease;
 			-ms-transition: -ms-transform 1s ease;
