@@ -1419,6 +1419,7 @@ input, select, textarea {
 /* Gallery */
 
 	.gallery {
+		background: url("../../images/zxz.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
