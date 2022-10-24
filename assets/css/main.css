@@ -621,8 +621,8 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: rgba(251, 214, 2, 0.95);
-		color: #39454b;
+		background: #000000;
+		color: #efd302;
 		padding: 2em;
 	}
 
@@ -1833,7 +1833,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(251, 214, 2, 0.95);
+		background: #efd302;
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -2177,8 +2177,8 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
-		color: rgba(185, 186, 187, 0.5);
+		background: #efd302;
+		color: #000000;
 		overflow: hidden;
 	}
 
